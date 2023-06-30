@@ -17,3 +17,9 @@ console.log (typeof datoA); //el type of sirve para saber el tipo de dato
 console.log (typeof nombre);
 console.log (typeof activo);
 console.log(typeof persona);
+
+console.log(typeof persona.edad); //number el dato es de este tipo
+console.log(typeof persona.deporte); //string el dato es de este tipo 
+
+
+
